@@ -1,0 +1,36 @@
+﻿Designator,Footprint,Quantity,Value
+"C1, C10, C11, C12, C14, C19, C2, C21, C24, C26, C4, C5, C7, C8, C9",402,15,100nF
+"C13, C18, C6",402,3,2.2uF
+"C15, C22, C23",805,3,10u
+"C16, C20",402,2,30pF
+C17,CP_Elec_6.3x7.7,1,100u
+"C27, C3",603,2,1u
+C28,603,1,100n
+D1,SON50P100X255X50-10N,1,TPD4E05U06DQAR
+D2,D_SMA,1,D_Schottky
+D3,D_SMF,1,SMF20A
+D4,D_SOD-123,1,D_Zener
+D5,603,1,RED
+J1,USB_C_GSwitch,1,USB_C_Receptacle
+J4,SSD1315_oled,1,OLED
+J6,Banana_Cliff_FCR7350x_S16N-PC_Horizontal,1,BananaP
+J8,Banana_Cliff_FCR7350x_S16N-PC_Horizontal,1,BananaN
+J9,"PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal",1,ScrewTerminal
+R1,1206,1,5mR
+"R10, R11",402,2,27R
+"R12, R18, R20, R26, R27, R29, R30",402,7,1k
+"R13, R14",402,2,10R
+"R15, R16, R17, R19, R22, R28, R6, R7, R9",402,9,10k
+"R2, R3, R4, R5, R8",402,5,5.1k
+SW1,RotaryEncoder_EC11B_SW_Horizontal,1,RotaryEncoder_Switch
+SW2,Button_6.2x6.2x12mm,1,SW_Select
+SW4,Button_6.2x6.2x12mm,1,SW_OutPut
+SW5,Button-SMD_TS24CA,1,~
+TH1,402,1,Thermistor_NTC
+"U1, U6",VQFN-HR-16,2,LM73100
+U2,QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,1,AP33772
+U3,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1,RP2040
+U4,SOT-23-5,1,AP2204K-3.3
+U5,8-USON,1,W25Q16JVUXIQ_TR
+U7,VSSOP-10_3x3mm_P0.5mm,1,INA226
+Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,12MHz
