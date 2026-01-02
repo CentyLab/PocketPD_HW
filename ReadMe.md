@@ -5,6 +5,8 @@
 - CrowdSupply Page - [CrowdSupply.com](https://www.crowdsupply.com/centylab/pocketpd)
 
 # Hardware Overview
+- Design Files - .kicad_*
+	- KiCad design files
 - Gerber files - _Gerber.zip; _Gerber.pdf
     - PCB copper and drill file for fabrication
 - Schematic file - _Schematic.pdf
